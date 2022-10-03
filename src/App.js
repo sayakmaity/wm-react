@@ -79,7 +79,7 @@ class App extends React.Component {
               maxTime={22}
               onChange={this.readOnly}
               unselectedColor="rgba(113,197,209,0.001)"
-              selectedColor="rgba(113,197,209,0.4)"
+              selectedColor="rgba(113,197,209,0.3)"
               hoveredColor="rgba(113,197,209,0.0)"
               startDate="10/3/22"
             />
@@ -93,7 +93,7 @@ class App extends React.Component {
               maxTime={22}
               onChange={this.readOnly}
               unselectedColor="rgba(113,197,209,0.01)"
-              selectedColor="rgba(113,197,209,0.4)"
+              selectedColor="rgba(113,197,209,0.3)"
               hoveredColor="rgba(113,197,209,0.0)"
               startDate="10/3/22"
             />
@@ -107,7 +107,7 @@ class App extends React.Component {
               maxTime={22}
               onChange={this.readOnly}
               unselectedColor="rgba(113,197,209,0.01)"
-              selectedColor="rgba(113,197,209,0.4)"
+              selectedColor="rgba(113,197,209,0.3)"
               hoveredColor="rgba(113,197,209,0.0)"
               startDate="10/3/22"
             />
@@ -121,7 +121,7 @@ class App extends React.Component {
               maxTime={22}
               onChange={this.readOnly}
               unselectedColor="rgba(113,197,209,0.01)"
-              selectedColor="rgba(113,197,209,0.6)"
+              selectedColor="rgba(113,197,209,0.3)"
               hoveredColor="rgba(113,197,209,0.0)"
               startDate="10/3/22"
             />
